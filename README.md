@@ -1,10 +1,5 @@
 ## Print your answers to the console.
 
-### Task 1
-Go to your JavaScriptl test, rewrite the answers using functions! 
-
-### Task 2
-
 #### 1. Reverse
 Create a function to reverse a number. 
 
