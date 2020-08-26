@@ -1,5 +1,3 @@
-# Functions Exercises
-
 ## Print your answers to the console.
 
 ### Task 1
